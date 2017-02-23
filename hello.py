@@ -1,2 +1,4 @@
 # -*- coding: utf-8 -*-
-print("hello, world!")
+#!/usr/bin/env paython
+print('hello, world')
+
